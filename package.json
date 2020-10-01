@@ -3,6 +3,10 @@
     "displayName": "BLACKPINK",
     "publisher": "koreanmelon",
     "description": "A theme based on the colors of BLACKPINK.",
+    "repository": {
+        "url": "https://github.com/koreanmelon/blackpink-theme"
+    },
+    "icon": "./images/icon.jpg",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.49.0"
