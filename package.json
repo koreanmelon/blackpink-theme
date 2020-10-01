@@ -6,7 +6,7 @@
     "repository": {
         "url": "https://github.com/koreanmelon/blackpink-theme"
     },
-    "icon": "./images/icon.jpg",
+    "icon": "images/icon.jpg",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.49.0"
