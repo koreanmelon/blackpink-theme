@@ -250,7 +250,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ff0000"
+        "foreground": "#88FFFF"
       }
     },
     {
@@ -279,7 +279,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#ffffff"
       }
     },
     {
