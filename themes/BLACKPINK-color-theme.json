@@ -11,7 +11,7 @@
   "type": "dark",
   "colors": {
     "editor.background": "#040404",
-    "editor.foreground": "#fb98ad",
+    "editor.foreground": "#ffffff",
     "editorGroup.emptyBackground": "#090909",
     "activityBarBadge.background": "#ff59c7",
     "activityBar.background": "#000000",
