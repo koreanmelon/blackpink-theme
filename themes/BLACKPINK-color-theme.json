@@ -1,49 +1,57 @@
-// "pink0": "#fb98ad"
-// "pink1": "#ffa6fc"
-// "pink2": "#ff94e0"
-// "pink3": "#ff76d8"
-// "pink4": "#ff59c7"
-// "black": "#000000"
-// "gray": "#808080"
-// "gold": "#ffd700"
 {
   "name": "BLACKPINK",
   "type": "dark",
   "colors": {
-    "editor.background": "#050505",
-    "editor.foreground": "#ffffff",
-    "editorGroup.emptyBackground": "#090909",
-    "activityBarBadge.background": "#ff59c7",
     "activityBar.background": "#050505",
     "activityBar.foreground": "#fb98ad",
-    "tab.activeBorder": "#fb98ad",
+
+    "activityBarBadge.background": "#ff59c7",
+
     "button.background": "#fb98ad",
     "button.foreground": "#050505",
     "button.hoverBackground": "#ff829d",
-    "sideBarTitle.foreground": "#fb98ad",
-    "sideBar.background": "#050505",
-    "sideBar.foreground": "#ffffff",
-    "sideBarSectionHeader.background": "#050505",
-    "sideBarSectionHeader.foreground": "#fb98ad",
-    "statusBar.background": "#fb98ad",
-    "statusBar.foreground": "#050505",
-    "titleBar.activeBackground": "#fb98ad",
-    "titleBar.activeForeground": "#050505",
-    "titleBar.inactiveBackground": "#fb98ad",
+
+    "editor.background": "#050505",
+    "editor.foreground": "#ffffff",
+
+    "editorLineNumber.foreground": "#fb98adaa",
+
+    "editorGroup.emptyBackground": "#090909",
+
+    "focusBorder": "#fb98ad",
+
+    "list.activeSelectionBackground": "#fb98ad",
+    "list.activeSelectionForeground": "#050505",
+
+    "menu.background": "#fb98ad",
+    "menu.foreground": "#050505",
+    "menu.selectionBackground": "#fb98ad",
+    "menu.selectionForeground": "#050505",
+
     "panel.background": "#050505",
+
     "panelTitle.activeForeground": "#fb98ad",
+
     "scrollbarSlider.activeBackground": "#ff829d",
     "scrollbarSlider.background": "#ffa6fc55",
     "scrollbarSlider.hoverBackground": "#fb98ad",
+
+    "sideBar.background": "#050505",
+    "sideBar.foreground": "#ffffff",
+
+    "sideBarSectionHeader.background": "#050505",
+    "sideBarSectionHeader.foreground": "#fb98ad",
+    "sideBarTitle.foreground": "#fb98ad",
+
+    "statusBar.background": "#fb98ad",
+    "statusBar.foreground": "#050505",
     "statusBar.noFolderBackground": "#ffd700",
-    "menu.selectionBackground": "#fb98ad",
-    "menu.selectionForeground": "#050505",
-    "menu.background": "#fb98ad",
-    "menu.foreground": "#050505",
-    "list.activeSelectionBackground": "#fb98ad",
-    "list.activeSelectionForeground": "#050505",
-    "focusBorder": "#fb98ad",
-    "editorLineNumber.foreground": "#fb98adaa"
+
+    "tab.activeBorder": "#fb98ad",
+
+    "titleBar.activeBackground": "#ff829d",
+    "titleBar.activeForeground": "#050505",
+    "titleBar.inactiveBackground": "#fb98ad"
   },
   "tokenColors": [
     {

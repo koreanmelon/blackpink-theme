@@ -20,6 +20,11 @@
                 "label": "BLACKPINK",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BLACKPINK-color-theme.json"
+            },
+            {
+                "label": "BLACKPINK ALT",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BLACKPINK-alt-color-theme.json"
             }
         ]
     }
